@@ -6,12 +6,12 @@ Below are the smart contract addresses deployed on the testnet for testing purpo
 
 1. **Factory Pool Event NFT**
    - **Network:** Testnet
-   - **Contract Address:** `0x2eFA1611602825b08f91fb23DcaA4cf6410bD7F2`
+   - **Contract Address:** https://explorer.xrplevm.org/0x2eFA1611602825b08f91fb23DcaA4cf6410bD7F2
    - **Description:** This contract allows event organizers to create pools, distribute NFTs on-chain, and manage them directly, facilitating the creation and management of NFT event pools for user participation. Additionally, it enables organizers to create custom tokens tailored to their specific event needs.
 
 2. **Factory Pool Event Token**
    - **Network:** Testnet
-   - **Contract Address:** `0xC8C1A67e8786C140CD5621B195E9753fC7D904c8`
+   - **Contract Address:** https://explorer.xrplevm.org/0xC8C1A67e8786C140CD5621B195E9753fC7D904c8
    - **Description:** This contract allows event organizers to create pools, distribute Token on-chain, and manage them directly, facilitating the creation and management of Tokens event pools for user participation.
 Additionally, it enables organizers to create custom NFTs tailored to their specific event needs.
 
